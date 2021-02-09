@@ -1,0 +1,20 @@
+div{
+    margin: 20px;
+    font-size: 1.1rem;
+}
+label,span{
+    padding: 10px;
+    color: #FCE3FC;
+}
+label{
+    display: inline-block;
+    font-weight: bold;
+    width: 70px;
+    color: #ffcefe;
+}
+h2{
+    text-align: center;
+    color: #FCE3FC;
+    font-size: 3rem;
+    display: none;
+}
